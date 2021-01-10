@@ -1,0 +1,22 @@
+{
+  "name": "whatsapp",
+  "version": "0.0.1",
+  "description": "Description here",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcker/whatsapp.git"
+  },
+  "keywords": [
+    "keyword"
+  ],
+  "author": "marcker <marcker@youremail.com> (http://marcker.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcker/whatsapp/issues"
+  },
+  "homepage": "https://github.com/marcker/whatsapp#readme"
+}

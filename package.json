@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/marcker/whatsapp/issues"
   },
-  "homepage": "https://github.com/marcker/whatsapp#readme"
+  "homepage": "https://github.com/marcker/whatsapp#readme",
+  "dependencies": {
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.12.0"
+  }
 }
